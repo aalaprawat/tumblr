@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tumblr/precache-manifest.e2ef816cd04643a19b11c5ec4f6f299f.js"
+  "/tumblr/precache-manifest.2d164b3fda1139271f3fffd938215f82.js"
 );
 
 self.addEventListener('message', (event) => {

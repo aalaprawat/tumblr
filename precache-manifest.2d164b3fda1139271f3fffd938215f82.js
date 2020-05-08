@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "098b1230610c4ac4518f4301d08a8b30",
+    "revision": "08e83b90e6c1a8399708a11abd17bb14",
     "url": "/tumblr/index.html"
   },
   {
-    "revision": "300f10a8824a77c5f3fa",
-    "url": "/tumblr/static/css/main.1fcaa327.chunk.css"
+    "revision": "88c1b1c5fae3a94e3777",
+    "url": "/tumblr/static/css/main.7627d105.chunk.css"
   },
   {
     "revision": "6e62e9ba9facc9ff31b0",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tumblr/static/js/2.cbb95e4a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "300f10a8824a77c5f3fa",
-    "url": "/tumblr/static/js/main.d4c9cb87.chunk.js"
+    "revision": "88c1b1c5fae3a94e3777",
+    "url": "/tumblr/static/js/main.ffb164ab.chunk.js"
   },
   {
     "revision": "54a68503d9501ff4ba5e",
