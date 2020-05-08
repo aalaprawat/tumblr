@@ -4,10 +4,9 @@ import Header from '../component/Header'
 import './homepage.scss'
 const Homepage =()=>{
     return (
-    <div class="MainPage">
-        <Header/>
+    <span>    <Header/>
         <Directory/>
-     </div>    
+    </span>
     )
 }
 
