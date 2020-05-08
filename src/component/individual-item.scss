@@ -1,6 +1,6 @@
 .IndividualItems{
-    height: 290px;
-    width: 40%;
+    height: 400px;
+    width: 100%;
     margin:10px;
     float: left;
     background-position: center;
@@ -9,8 +9,16 @@
     text-align: center;
     border-radius: 4px;
     overflow: hidden;
-    
-    
+    -webkit-box-shadow: 5px 5px 2.5px 0px rgba(0,0,0,0.3);
+    @media (max-width: 1000px) {
+        width:45%;
+        height: 300px;
+    }
+    @media (max-width: 500px) {
+        width:27%;
+        height: 200px;
+    }
+
     &:hover {
         cursor: pointer;
         & .back{

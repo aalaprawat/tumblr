@@ -6,8 +6,7 @@ const Homepage =()=>{
     return (
     <div class="MainPage">
         <Header/>
-            <Directory/>
-      
+        <Directory/>
      </div>    
     )
 }
