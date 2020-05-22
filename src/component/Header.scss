@@ -1,9 +1,28 @@
 .Header{
-    margin-bottom: 60px;
-    width: 80%;
-    padding: 10%;
-    border-bottom-left-radius: 30px;
-    border-bottom-right-radius: 30px;
-    background-color: hotpink;
-    color: white;
+    text-align: left;
+    border-bottom:  .5px solid greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    position: sticky;
+    padding: 1%;   
+    justify-content: space-between;
+    text-decoration: none;
+    display: flex;
+    margin-bottom: 30px;
+    .header_name{
+        display: flex;
+        text-decoration: none;
+        color: chartreuse;    
+    }
+    .option{
+        display: flex;
+        align-items: center; 
+        justify-content: space-evenly;
+        .indi{
+            margin: 10px;
+            text-decoration: none;   
+            color: dimgrey; 
+
+        }
+    }
+    
 }

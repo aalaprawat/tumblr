@@ -163,7 +163,7 @@ class Directory extends React.Component{
     render()
     {return(
     <div className="body">
-        {this.state.items.map((item)=>(<Individualitem id={item.id} title={item.title} discount={item.Discount}/>))}
+        {this.state.items.map((item)=>(<Individualitem id={item.id}  title={item.title} discount={item.Discount}/>))}
     </div>
     )}
 }

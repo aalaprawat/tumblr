@@ -1,0 +1,28 @@
+.item-container{
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items	:flex-start;
+    padding: 2%;
+    align-content:	flex-start;
+
+}
+
+.container{
+    order: 0;
+    flex : 0 1 auto;
+    align-self:auto;
+}
+
+.name{
+    float: inline-end;
+}
+
+.price{
+    float: right;
+}
+
+.img {
+    border-radius: 5px;
+}

@@ -1,6 +1,6 @@
 .IndividualItems{
-    height: 400px;
-    width: 95%;
+    height: 500px;
+    width: 98%;
     margin:10px;
     float: left;
     background-position: center;
@@ -11,11 +11,11 @@
     overflow: hidden;
     -webkit-box-shadow: 5px 5px 2.5px 0px rgba(0,0,0,0.3);
     @media (max-width: 1000px) {
-        width:95%;
+        width:98%;
         height: 300px;
     }
     @media (max-width: 500px) {
-        width:95%;
+        width:98%;
         height: 200px;
     }
 
@@ -23,7 +23,7 @@
         cursor: pointer;
         & .back{
             transform: scale(1.1);
-    transition: transform 7s;
+    transition: transform 2s;
         }
         & .Title{
             opacity: .5;
